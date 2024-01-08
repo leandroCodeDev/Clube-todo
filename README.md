@@ -1,7 +1,7 @@
 # Teste - React Native com Expo (ToDo List)
 
 ### Como enviar o teste:
-Você pode criar um fork desse projeto ou criar um repositório publico e compartilhar o link do repositório no GitHub com o desafio.
+Você pode criar um clone desse projeto ou criar um repositório publico e compartilhar o link do repositório no GitHub com o desafio.
 
 Você pode enviar o link do desafio para clube.delivery.developer@gmail.com
 
