@@ -9,7 +9,7 @@ Você pode enviar o link do desafio para clube.delivery.developer@gmail.com
 
 - Lembre-se de utilizar boas práticas na sua aplicação. Se houver dúvidas ou algo não estiver claro, sinta-se à vontade para perguntar. Boa sorte!
 
-- Link para o figma https://www.figma.com/file/Mg75tQSkV437kyIvtrM85u/Clube-todo?type=design&node-id=0%3A1&mode=design&t=WWmoitxfKQyprn6X-1
+- Link para o figma [clicando aqui](https://www.figma.com/file/Sk9LpMq9uTQiUqEaGi16OJ/Clube-todo-(Community)?type=design&node-id=0-1&mode=design&t=IPCcmb2JIxgnjoSQ-0)
 
 ![teste](https://github.com/clube-delivery/Clube-todo/assets/55595657/2f7db3eb-1986-4b4c-b2ae-dc3dc7b5a93a)
 
